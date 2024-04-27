@@ -1,0 +1,6 @@
+pyupbit
+pandas
+numpy
+seaborn
+matplotlib
+slack-sdk
